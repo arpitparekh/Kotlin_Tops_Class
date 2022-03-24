@@ -1,6 +1,5 @@
 package feb14
 
-import oct8Functions.add
 
 fun adding(x : Int,y:Int)  : Int {
 

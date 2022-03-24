@@ -6,9 +6,9 @@ fun main() {
 
     val arr = arrayOf<String>("Goal","Gollie","Cat","c","Apple","App","Data","date")
 
-    for(i in 0 until arr.size){
+    for(i in arr.indices){
 
-        for(j in 0 until arr.size){
+        for(j in arr.indices){
 
             // arr[i] = "Gollie"  // arr[j] = "Hello"
 
